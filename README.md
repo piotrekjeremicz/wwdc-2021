@@ -12,6 +12,27 @@ Five interactive pages:
 
 The idea: a map is one of the hardest interfaces to make audible, so the book builds the pieces (heading, spatial sound, feedback) step by step.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><b>1 · The Wind Rose</b><br>
+      <img src="screenshots/page-1.png" alt="The Wind Rose"></td>
+    <td><b>2 · Accelerometer Rose</b><br>
+      <img src="screenshots/page-2.png" alt="Accelerometer Rose"></td>
+  </tr>
+  <tr>
+    <td><b>3 · Sound Source</b><br>
+      <img src="screenshots/page-3.png" alt="Sound Source"></td>
+    <td><b>4 · Accessible Sound Game</b><br>
+      <img src="screenshots/page-4.png" alt="Accessible Sound Game"></td>
+  </tr>
+  <tr>
+    <td><b>5 · Accessible Map</b><br>
+      <img src="screenshots/page-5.png" alt="Accessible Map"></td>
+  </tr>
+</table>
+
 ## What's inside
 
 A Swift Playground Book with a `Core` module written in SwiftUI, with AVFoundation for audio and CoreMotion for sensors:
