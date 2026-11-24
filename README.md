@@ -12,6 +12,12 @@ Five interactive pages:
 
 The idea: a map is one of the hardest interfaces to make audible, so the book builds the pieces (heading, spatial sound, feedback) step by step.
 
+## Demo
+
+[![WWDC21 – Accessibility Rose — demo on YouTube](https://img.youtube.com/vi/V9o_sMwLuaU/hqdefault.jpg)](https://www.youtube.com/watch?v=V9o_sMwLuaU)
+
+▶ [Watch the demo on YouTube](https://www.youtube.com/watch?v=V9o_sMwLuaU)
+
 ## Screenshots
 
 <table>
